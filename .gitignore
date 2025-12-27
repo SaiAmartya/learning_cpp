@@ -1,0 +1,11 @@
+# Compiled binaries
+my_program
+a.out
+*.out
+*.exe
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (optional - remove this line if you want to track settings)
+settings.json
